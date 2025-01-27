@@ -1,6 +1,6 @@
 ---
 title: "Working linear regression models"
-author: "Yuraja Kadari"
+author: "Himanshi Sachdeva"
 output: 
   html_document:
    toc: true
